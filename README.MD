@@ -46,6 +46,17 @@ To reward your referrers you should use the `_sendReferrerRoyalty()` internal fu
 	    ...
     }
 
+**How to integrate**
+Check out our integration with this Demo in our[`REF1699-minting-site`](https://github.com/LuisRivera1699/REF1699-minting-site) example.
+
+Minting integration
+
+![Referrer minting](https://raw.githubusercontent.com/LuisRivera1699/REF1699-minting-site/main/public/mint.png)
+
+Referrer link generation
+
+![Get referrer link](https://raw.githubusercontent.com/LuisRivera1699/REF1699-minting-site/main/public/refer.png)
+
 ## Buy me a cofee ☕☕
 **ETH & Polygon Address** : 
 0x8306865FAb8dEC66a1d9927d9ffC4298500cF7Ed
