@@ -47,6 +47,7 @@ To reward your referrers you should use the `_sendReferrerRoyalty()` internal fu
     }
 
 **How to integrate**
+
 Check out our integration with this Demo in our[`REF1699-minting-site`](https://github.com/LuisRivera1699/REF1699-minting-site) example.
 
 Minting integration
