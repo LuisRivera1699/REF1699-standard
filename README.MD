@@ -6,6 +6,7 @@ A standard for referral system implementation in NFT Collections' Smart Contract
 
 ## Overview
 **How to extend REF1699**
+
 You have to paste the file `REF1699.sol` to your project directory and import it to your Smart Contract. You will have to set the constructor for the REF1699 standard.
 
     pragma solidity ^0.8.x;
@@ -24,6 +25,7 @@ You have to paste the file `REF1699.sol` to your project directory and import it
     }
 
 **How to reward referrers**
+
 To reward your referrers you should use the `_sendReferrerRoyalty()` internal function in any function you want, for example the `mint()` function. NOTE: the function should be a payable function and the `_sendReferrerRoyalty()` should be called before the `_safeMint()` function.
 
     pragma solidity ^0.8.x;
