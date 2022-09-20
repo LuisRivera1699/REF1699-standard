@@ -60,7 +60,7 @@ Referrer link generation
 
 ![Get referrer link](https://raw.githubusercontent.com/LuisRivera1699/REF1699-minting-site/main/public/refer.png)
 
-## Buy me a cofee ☕☕
+## Buy me a coffee ☕☕
 **ETH & Polygon Address** : 
 0x8306865FAb8dEC66a1d9927d9ffC4298500cF7Ed
 
