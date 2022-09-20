@@ -7,7 +7,7 @@ A standard for referral system implementation in NFT Collections' Smart Contract
 ## Overview
 **How to extend REF1699**
 
-You have to paste the file `REF1699.sol` to your project directory and import it to your Smart Contract. You will have to set the constructor for the REF1699 standard.
+You have to add the file `REF1699.sol` to your project directory and import it to your Smart Contract. To correctly extend the standard, you will have to set the constructor for the REF1699 standard.
 
     pragma solidity ^0.8.x;
     
